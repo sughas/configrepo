@@ -1,5 +1,5 @@
 my:
-    #greeting: Hello World from config server updated
+    greeting: Hello World from config server updated
     list: one,two,three, congfigServer updated
 app: 
     name: My app congfigServer updated
