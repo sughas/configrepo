@@ -1,2 +1,2 @@
 my:
-    greeting: New greeting from Spring_config_client micropservice specific file
+    greeting: Greeting from Spring_config_client micropservice specific file
