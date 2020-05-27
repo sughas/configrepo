@@ -1,8 +1,8 @@
 my:
-    greeting: Hello World from config server updated New changes
-    list: one,two,three, congfigServer updated New changes
+    greeting: Hello World from config server updated 
+    list: one,two,three, congfigServer updated 
 app: 
-    name: My app congfigServer updated New changes
+    name: My app congfigServer updated 
     descrption: welcome to ${app.name}
 db:
     connection: "{connection:'https://congfigServer updated',user:'footest', pass:'pass' }"
