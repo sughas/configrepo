@@ -1,10 +1,10 @@
 my:
-    greeting: Hello World from config server updated 
-    list: one,two,three, congfigServer updated new update 
+    greeting: Hello World from config server 
+    list: one,two,three, congfigServer 
 app: 
-    name: My app congfigServer updated new update
+    name: My app congfigServer
     descrption: welcome to ${app.name}
 db:
-    connection: "{connection:'https://congfigServer updated',user:'footest', pass:'pass' }"
+    connection: "{connection:'https://congfigServer updated',user:'foo', pass:'pass' }"
     port: 3309
     host: 127.168.1.1
